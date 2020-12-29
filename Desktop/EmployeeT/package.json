@@ -1,0 +1,19 @@
+{
+  "name": "employeet",
+  "version": "1.0.0",
+  "description": "EmployeeTrackerHomework",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "RobertKoepp",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
